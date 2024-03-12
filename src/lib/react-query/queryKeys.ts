@@ -1,0 +1,11 @@
+export enum keys {
+    GET_RECENT_POSTS="getRecentsPosts",
+    GET_POST_BY_ID="get_post_by_id",
+    GET_CURRENT_USER="get_rcent_users",
+    GET_POSTS="get_POSTS",
+    GET_UNIQUE_POST="GET_UNIQUE_POST",
+    GET_INFINITE_POSTS="GET_INFINITE_POSTS",
+    SEARCH_POSTS="SEARCH_POSTS",
+    GET_USER_SAVES="GET_USER_SAVES",
+    GET_USERS="GET_USERS"
+}
