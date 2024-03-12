@@ -1,7 +1,7 @@
 
-# Daily Task Manager App
+# SocialMernApp
 
-Say goodbye to scattered to-do lists! With Daily Task Manager, take control of your day, enhance your productivity, and achieve your goals. It's not just a task manager; it's your daily success companion!.
+create an account and enjoy posting and see your friend's post !!
 
 ## Authors
 
